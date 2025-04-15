@@ -1,2 +1,2 @@
 # Aero-hydrocyclone_ML-GA_interpretable-framework
-Design and machine learning optimisation of ultra-clean mini-hydrocyclones for aero-engine lubricant oil systems
+The detailed code will be published after the paper is received.
